@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mac\\Home\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\bubble_sort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15DB4652-03B0-470F-B253-6084D07AB051}|bubble_sort\\bubble_sort.csproj|c:\\mac\\home\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\c#\\bubble_sort\\bubble_sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DB4652-03B0-470F-B253-6084D07AB051}|bubble_sort\\bubble_sort.csproj|solutionrelative:bubble_sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 176,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\bubble_sort\\bubble_sort\\Program.cs",
+              "RelativeDocumentMoniker": "bubble_sort\\Program.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\bubble_sort\\bubble_sort\\Program.cs",
+              "RelativeToolTip": "bubble_sort\\Program.cs",
+              "ViewState": "AQIAAAQAAACQZ2ZmZmY2wBcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T07:13:56.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
