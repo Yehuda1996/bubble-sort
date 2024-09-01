@@ -8,10 +8,6 @@
 			{
 				for (int j = 0; j < a.Length; j++)
 				{
-					if (a[i] == a[j])
-					{
-						return a;
-					}
 					if (a[i] > a[j])
 					{
 						int temp = a[i];
